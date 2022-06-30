@@ -63,7 +63,7 @@ work under pression.
 Test execution on Solid State Drives (NVMe and M2 environments), aspects such as:
 Performance, I/O Data Integrity and Compatibility validation. Tracking/report defects
 in Jira platform. System setup: PCIe, SSD and BIOS configurations. Install & setup
-OS Win2016/2019, RHEL 7.x, Suse 15, ESXi 7. Virtual Machines on Hyper-V,
+OS Win2016/2019, RHEEL 7.x, Suse 15, ESXi 7. Virtual Machines on Hyper-V,
 VMWare
 
 # Where to find me
