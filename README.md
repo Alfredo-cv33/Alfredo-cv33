@@ -50,7 +50,7 @@ Domain in different equipment of test board (PCBA) analysis and understanding ab
 process for test like ICT3070 (In-Circuit Test), Teradyne, support to line manufactory
 resolution of different issue, I use measuring devices like multimeter and knowledge in
 board diagnostic for validate the possible problems about the equipment in the case that
-the test is failure, prevention actions y and corrective maintenance
+test is failure, prevention actions and corrective maintenance
 
 Domain in different measuring devices like oscilloscope, spectrum analyzer, X-ray
 (Dage) multimeter, signal generator, power supply, knowledge in radiofrequency (RF)
